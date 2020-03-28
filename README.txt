@@ -2,7 +2,7 @@ Steps for using CAMEO
 
 1) Download Python 3.3.3 from https://www.python.org/downloads/ and install it on your windows OS (Win 7 and above)
 
-2) Download CAMEO from website X.
+2) Download CAMEO from https://github.com/avishekdutta14/CAMEO.
 
 3) Decompress CAMEO.zip
 
