@@ -1,6 +1,6 @@
-OTU : all_otus.txt
-TAXA : rep_set_all_tax_assignments.txt
-FASTA : rep_set_all.fna
+OTU : otus.txt
+TAXA : rep_set_tax_assignments.txt
+FASTA : rep_set.fna
 CONTROL : BLR
 COMPARE : U8,P2
-RARESTP : 40000           
+RARESTP : 1           
