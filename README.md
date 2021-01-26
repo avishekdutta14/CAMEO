@@ -11,7 +11,7 @@ A tool for control subtraction and data-mining in the field of microbial ecology
 
 4) Place your file in offiline folder present in CAMEO
 
-5) Input files will contain *example input files are provided in the example_input folder*
+5) Input files will contain the following four files *(example input files are provided in the example_input folder)*
 
   (i)	Output from pick_otus.py  i.e. filename_otus.txt
 
