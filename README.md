@@ -1,5 +1,5 @@
 # CAMEO
-A tool for control subtraction and data-mining in the field of microbial ecology
+A tool for control subtraction and data-mining in the field of microbial ecology. 
 
 ## Steps for using CAMEO
 
@@ -13,11 +13,11 @@ A tool for control subtraction and data-mining in the field of microbial ecology
 
 5) Input files will contain the following four files *(example input files are provided in the example_input folder)*
 
-  (i)	Output from pick_otus.py  i.e. filename_otus.txt
+  (i)	Output from pick_otus.py  i.e. filename_otus.txt (output of QIIME)
 
-  (ii)	Output from pick_rep_set.py i.e. filename_rep_set.fna
+  (ii)	Output from pick_rep_set.py i.e. filename_rep_set.fna (output of QIIME)
 
-  (iii)	Output from assign_taxonomy.py i.e. filename_tax_assignments.txt
+  (iii)	Output from assign_taxonomy.py i.e. filename_tax_assignments.txt (output of QIIME)
 
   (iv)	Index file present in the CAMEO package containing the exact name of the outputs of pick_otus.py, assigned_taxonomy.py, pick_rep_set.py should be present in row starting   with OTU, TAXA and FASTA parameters respectively. Sample ID of the contaminant sample or samples should be mentioned under CONTROL and separated by comma. Sample ID of the       samples to compare should be mentioned in COMPARE row and number of rarefaction steps should be mentioned in RARESTP row.
 
