@@ -21,7 +21,7 @@ A tool for control subtraction and data-mining in the field of microbial ecology
 
   (iv)	Index file present in the CAMEO package containing the exact name of the outputs of pick_otus.py, assigned_taxonomy.py, pick_rep_set.py should be present in row starting   with OTU, TAXA and FASTA parameters respectively. Sample ID of the contaminant sample or samples should be mentioned under CONTROL and separated by comma. Sample ID of the       samples to compare should be mentioned in COMPARE row and number of rarefaction steps should be mentioned in RARESTP row.
 
-### First three input files should be compressed into zip format.
+ **N.B.: First three input files should be compressed into zip format.**
 
 6) Once everything is done click on the backend_processor.py to initiate the analysis
 
@@ -45,7 +45,7 @@ A tool for control subtraction and data-mining in the field of microbial ecology
 
 (vi)	Krona chart on the basis of unique diversity of different samples can be observed in single_OTU.html
 
-N.B.) Krona chart generated in the form of HTML file can be viewed through any web-browser supporting HTML file.
+N.B.: Krona chart generated in the form of HTML file can be viewed through any web-browser supporting HTML file.
 
 
 For any CAMEO related query contact 
