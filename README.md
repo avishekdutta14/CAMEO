@@ -1,7 +1,7 @@
 # CAMEO
 A tool for control subtraction and data-mining in the field of microbial ecology
 
-##Steps for using CAMEO
+## Steps for using CAMEO
 
 1) Download Python 3.3.3 from https://www.python.org/downloads/ and install it on your windows OS (Win 7 and above)
 
